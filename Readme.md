@@ -15,5 +15,5 @@ I thrive on challenges and love to stay at the forefront of technology. With a s
 )](https://www.linkedin.com/in/felipe-messias-fms) [![Gmail Badge](https://img.shields.io/badge/-felipe.messias.fms@gmail.com-303030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipe.messias.fms@gmail.com)](mailto:felipe.messias.fms@gmail.com)
 
 
-## Most usage languages in Github Repositories
+## Most used languages in Github Repositories
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFMS08&hide_progress=true&theme=dark)
