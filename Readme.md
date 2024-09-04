@@ -16,4 +16,4 @@ I thrive on challenges and love to stay at the forefront of technology. With a s
 
 
 ## Most usage languages in Github Repositories
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFMS08&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFMS08&hide_progress=true&theme=dark)
