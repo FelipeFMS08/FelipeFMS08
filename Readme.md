@@ -10,6 +10,8 @@ I thrive on solving complex problems, bringing ideas to life, and staying on the
 
 Outside of work, I'm passionate about building **Discord bots** and **Minecraft server systems** — projects I pursue as a hobby for creativity, learning, and community building.
 
+My website https://messiasfms.dev/
+
 ---
 
 ## 🔧 Principal Skills
